@@ -25,7 +25,7 @@ def division(values_list):
 print("Calculator Program in Python\n")
 
 while True:
-    n_values = int(input("Enter the number of values: "))
+    n_values = int(input("Enter the number of values you want to use in the calculation: "))
     operation = input("Enter the operation (+, -, /, *): ")
     values = []
     
